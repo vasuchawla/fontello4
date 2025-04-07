@@ -1,0 +1,8 @@
+{
+    "name": "playbook",
+    "version": "0.1.0",
+    "author": "Playbook",
+    "devDependencies": {
+        "@percy/cli": "1.30.4"
+    }
+}
